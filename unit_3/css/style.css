@@ -1,5 +1,11 @@
 body { 
-	font-family: sans-serif;
-	background: images/background.jpg;
+	font-family: Helvetica, sans-serif;
+	background: rgb(0,0,255);
 	color: #fff;
+	text-transform:uppercase;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: bold;
 }
