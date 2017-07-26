@@ -1,7 +1,6 @@
 body {
 	background: url("https://img0.etsystatic.com/004/0/5508108/il_570xN.472993728_bsoq.jpg");
-}
-
-p {
-	color: #000;
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica;
 }
