@@ -1,5 +1,5 @@
 body {
-	background: url("images/background.jpg") cover;
+	background: url("/images/background.jpg") cover;
 	color: #fff;
 	font-family: Helvetica;
 	text-transform: uppercase;
