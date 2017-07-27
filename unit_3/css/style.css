@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-	font-size: 200%;
+	font-size: 400%;
 }
 
 ul {
@@ -22,7 +22,7 @@ ul {
 }
 
 #contact {
-	margin-top: 300px;
+	margin-top: 200px;
 	text-align: right;
 	font-weight: 300;
 }
