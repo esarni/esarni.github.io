@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-	font-size: 100px;
+	font-size: 50px;
 	color: magenta;
 }
 
@@ -20,7 +20,7 @@ h1 {
 }
 
 ul {
-	margin-top: 200px;
+	margin-top: 100px;
     text-align: right;
     list-style-type: none;
     font-size: 200px;
