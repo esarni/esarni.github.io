@@ -7,5 +7,10 @@ body {
 }
 
 .contact {
-	align: right;
+	text-align: right;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
 }
