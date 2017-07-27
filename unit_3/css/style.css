@@ -12,11 +12,12 @@ body {
 
 h1 {
 	font-size: 400%;
+	color: magenta;
 }
 
 ul {
-	margin-top: 200px;
-    text-align: center;
+	margin-top: 100px;
+    text-align: left;
     list-style-type: none;
     font-size: 200%;
 }
