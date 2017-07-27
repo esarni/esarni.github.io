@@ -12,11 +12,12 @@ body {
 
 h1 {
 	font-size: 50px;
-	color: magenta;
+	color: white;
 }
 
-.class {
-	text-align: right;
+.aboutme {
+	text-align: none;
+	margin-top: 20px
 }
 
 ul {
