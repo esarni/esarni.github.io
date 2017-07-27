@@ -20,7 +20,10 @@ ul {
     font-size: 200%;
 }
 
+
+
 #contact {
+	margins-top: 100px;
 	text-align: right;
 	font-weight: 300;
 }
