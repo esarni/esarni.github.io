@@ -1,6 +1,8 @@
 body {
 	background-image: url('ghost-background.jpg');
-	background-size: cover;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
 	color: #fff;
 	text-transform: lowercase;
 	padding-left: 30px;
