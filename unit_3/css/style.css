@@ -12,12 +12,12 @@ body {
 h1 {
 	font-size: 50px;
 	color: white;
-	font-family: @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+	font-family: @import url('https://fonts.googleapis.com/css?family=Anton');
 }
 
 h2 {
 	font-size: 20px;
-	font-family: @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+	font-family: @import url('https://fonts.googleapis.com/css?family=Anton');
 }
 
 p {
@@ -34,6 +34,7 @@ ul {
     text-align: right;
     list-style-type: none;
     font-size: 80px;
+    font-family: @import url('https://fonts.googleapis.com/css?family=Anton');
 }
 
 #contact {
