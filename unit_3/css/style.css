@@ -2,7 +2,6 @@ body {
 	background-image: url('ghost-background.jpg');
 	background-size: cover;
 	color: #fff;
-	font-family: Helvetica;
 	text-transform: lowercase;
 	padding-left: 30px;
 	padding-right: 30px;
@@ -13,10 +12,16 @@ body {
 h1 {
 	font-size: 50px;
 	color: white;
+	font-family: @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 }
 
 h2 {
 	font-size: 20px;
+	font-family: @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+}
+
+p {
+font-family: @import url('https://fonts.googleapis.com/css?family=EB+Garamond');
 }
 
 .aboutme {
