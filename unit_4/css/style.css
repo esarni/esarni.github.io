@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
 body {
 	background-image: url('ghost-background.jpg');
 	background-repeat: no-repeat;
@@ -18,10 +20,12 @@ h1 {
 }
 
 h2 {
+	font-family: 'Roboto Slab', serif;
 	font-size: 20px;
 }
 
 .aboutme {
+	font-family: 'Roboto Slab', serif;
 	text-align: none;
 	margin-top: 20px
 }
@@ -34,6 +38,7 @@ ul {
 }
 
 #contact {
+	font-family: 'Roboto Slab', serif;
 	margin-top: 50px;
 	text-align: right;
 	font-weight: 300;
